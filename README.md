@@ -30,12 +30,11 @@ Users should be able to:
 
 ### Active-State
 
-![Mobile Screenshot](design/active-state.png)
----
+## ![Mobile Screenshot](design/active-state.png)
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://hassan-ali-byte.github.io/3-column-preview-card-component/)
+👉 [View Live Demo](https://hassan-ali-byte.github.io/3-column-preview-card-component-main/)
 
 ---
 
@@ -85,11 +84,6 @@ This project taught me several valuable concepts:
    - Buttons animate slightly upwards on hover/focus for a polished experience.
 
 ---
-
-## 🔗 Resources
-
-- [Josh Comeau – CSS Transitions & Beziers](https://www.joshwcomeau.com/animation/css-transitions/)
-- [MDN – `:has()` Selector](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
 
 ## 🔗 Resources
 
