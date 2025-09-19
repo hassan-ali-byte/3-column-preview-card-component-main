@@ -28,6 +28,9 @@ Users should be able to:
 
 ![Mobile Screenshot](design/mobile-version.png)
 
+### Active-State
+
+![Mobile Screenshot](design/active-state.png)
 ---
 
 ## 🌐 Live Demo
